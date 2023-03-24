@@ -1,0 +1,15 @@
+C:\Users\PC\OneDrive\Pictures\Screenshots\sec 3 prop 2\sec 3 prop 2\bin\blood bank\bin\Debug\net6.0\blood bank.exe
+C:\Users\PC\OneDrive\Pictures\Screenshots\sec 3 prop 2\sec 3 prop 2\bin\blood bank\bin\Debug\net6.0\blood bank.deps.json
+C:\Users\PC\OneDrive\Pictures\Screenshots\sec 3 prop 2\sec 3 prop 2\bin\blood bank\bin\Debug\net6.0\blood bank.runtimeconfig.json
+C:\Users\PC\OneDrive\Pictures\Screenshots\sec 3 prop 2\sec 3 prop 2\bin\blood bank\bin\Debug\net6.0\blood bank.dll
+C:\Users\PC\OneDrive\Pictures\Screenshots\sec 3 prop 2\sec 3 prop 2\bin\blood bank\bin\Debug\net6.0\blood bank.pdb
+C:\Users\PC\OneDrive\Pictures\Screenshots\sec 3 prop 2\sec 3 prop 2\bin\blood bank\obj\Debug\net6.0\blood bank.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Pictures\Screenshots\sec 3 prop 2\sec 3 prop 2\bin\blood bank\obj\Debug\net6.0\blood bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Pictures\Screenshots\sec 3 prop 2\sec 3 prop 2\bin\blood bank\obj\Debug\net6.0\blood bank.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Pictures\Screenshots\sec 3 prop 2\sec 3 prop 2\bin\blood bank\obj\Debug\net6.0\blood bank.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Pictures\Screenshots\sec 3 prop 2\sec 3 prop 2\bin\blood bank\obj\Debug\net6.0\blood bank.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Pictures\Screenshots\sec 3 prop 2\sec 3 prop 2\bin\blood bank\obj\Debug\net6.0\blood bank.dll
+C:\Users\PC\OneDrive\Pictures\Screenshots\sec 3 prop 2\sec 3 prop 2\bin\blood bank\obj\Debug\net6.0\refint\blood bank.dll
+C:\Users\PC\OneDrive\Pictures\Screenshots\sec 3 prop 2\sec 3 prop 2\bin\blood bank\obj\Debug\net6.0\blood bank.pdb
+C:\Users\PC\OneDrive\Pictures\Screenshots\sec 3 prop 2\sec 3 prop 2\bin\blood bank\obj\Debug\net6.0\blood bank.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Pictures\Screenshots\sec 3 prop 2\sec 3 prop 2\bin\blood bank\obj\Debug\net6.0\ref\blood bank.dll
